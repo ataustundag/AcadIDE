@@ -34,7 +34,8 @@ By providing a clutter-free and simplified experience, **AcadIDE** becomes the p
 1. Download the given file.
 2. Follow the installation steps.
 3. Run the "AcadIDE.exe" file.
-4. Start programming/learning.```
+4. Start programming/learning.
+```
 
 🎥 Learn on YouTube
 For video tutorials and guided learning, visit my YouTube channel.
