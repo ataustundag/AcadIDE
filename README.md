@@ -49,7 +49,7 @@ Most code editors are either too complex for beginners or require modern hardwar
   4. Direct access to educational content
 
 👨‍💻 Developer
-Ata Yigit Uzay Ustundag
+Ata Yigit Uzay Ustundag <br>
 📧 ustundagatayigit@gmail.com
 
 ⚖️ License
