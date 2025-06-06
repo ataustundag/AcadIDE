@@ -53,5 +53,5 @@ Ata Yigit Uzay Ustundag <br>
   - 📧 ustundagatayigit@gmail.com
 
 ⚖️ License
-  - MIT License © 2025 - Ata Yigit Uzay Ustundag
+  - Ata Yigit Uzay Ustundag
   - Use freely, modify openly, learn passionately.
