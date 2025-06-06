@@ -43,15 +43,15 @@ For video tutorials and guided learning, visit my YouTube channel.
 🧠 Why AcadIDE?
 Most code editors are either too complex for beginners or require modern hardware. AcadIDE fills this gap by offering:
 
-  1. A smooth start for anyone curious about C#
-  2. Clear explanations through inline comments
-  3. A distraction-free user interface
-  4. Direct access to educational content
+  - A smooth start for anyone curious about C#-
+  -  Clear explanations through inline comments
+  - A distraction-free user interface
+  - Direct access to educational content
 
 👨‍💻 Developer
 Ata Yigit Uzay Ustundag <br>
-  📧 ustundagatayigit@gmail.com
+  - 📧 ustundagatayigit@gmail.com
 
 ⚖️ License
-  MIT License © 2025 - Ata Yigit Uzay Ustundag
-  Use freely, modify openly, learn passionately.
+  - MIT License © 2025 - Ata Yigit Uzay Ustundag
+  - Use freely, modify openly, learn passionately.
