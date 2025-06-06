@@ -50,8 +50,8 @@ Most code editors are either too complex for beginners or require modern hardwar
 
 👨‍💻 Developer
 Ata Yigit Uzay Ustundag <br>
-📧 ustundagatayigit@gmail.com
+  📧 ustundagatayigit@gmail.com
 
 ⚖️ License
-MIT License © 2025 - Ata Yigit Uzay Ustundag
-Use freely, modify openly, learn passionately.
+  MIT License © 2025 - Ata Yigit Uzay Ustundag
+  Use freely, modify openly, learn passionately.
