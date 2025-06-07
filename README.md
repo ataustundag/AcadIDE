@@ -4,6 +4,10 @@
 
 ---
 
+## Version: 0.0.1
+
+## Status: Alpha, in development
+
 ## 🎯 Purpose
 
 AcadIDE aims to support:
