@@ -4,9 +4,9 @@
 
 ---
 
-## Version: 0.0.1
+### 👨🏻‍💻 Version: 0.0.1
 
-## Status: Alpha, in development
+### ✅ Status: Alpha, in development
 
 ## 🎯 Purpose
 
